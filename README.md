@@ -1,4 +1,3 @@
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/ModelCraft&type=Date)](https://star-history.com/#rudrankriyam/ModelCraft&Date)
 
 <div align="center"><img alt="ModelCraft" height="200px" src="./logo.png" /></div>
 
@@ -67,3 +66,4 @@ No pre-operations. Just download the app to use it !
 
 Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/ModelCraft&type=Date)](https://star-history.com/#rudrankriyam/ModelCraft&Date)
