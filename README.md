@@ -1,3 +1,5 @@
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/ModelCraft&type=Date)](https://star-history.com/#rudrankriyam/ModelCraft&Date)
+
 <div align="center"><img alt="ModelCraft" height="200px" src="./logo.png" /></div>
 
 [![zh-CN](https://img.shields.io/badge/lang-简体中文-red.svg)](./README_zh-CN.md)
